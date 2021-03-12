@@ -1,4 +1,4 @@
-# 100 days challenge 👋
+# 45 days challenge 👋
 ### Hi there, I'm Yash - aka [codex-99] 👋
 
 ### I'm a Student, Developer, and Graphic Designer!!
@@ -14,7 +14,7 @@ I am gonna push myself and complete at least 1 problem each day for 100 days. So
 <br />
 I am going to publish questions and solution of each problem I solve. I would recommend to look into these problems.
 <br /> <br />
-I am starting this challenge on Mar 15 2021 .
+I am starting this challenge on Mar 12 2021 .
 
 ### Connect with me:
 

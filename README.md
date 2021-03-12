@@ -10,7 +10,7 @@
 
 ## About this challenge:
 
-I am gonna push myself and complete at least 1 problem each day for 100 days. So it will be 100 questions(minimum) solved after this challenge. This will bring me one step closer to my goal.
+I am gonna push myself and complete at least 2 problem each day for 45 days. So it will be 90 questions(minimum) solved after this challenge. This will bring me one step closer to my goal.
 <br />
 I am going to publish questions and solution of each problem I solve. I would recommend to look into these problems.
 <br /> <br />
